@@ -1,0 +1,18 @@
+﻿Year        Subject                        Winner                         Country                        Category
+----------- ------------------------------ ------------------------------ ------------------------------ ------------------------------
+1970        Chemistry                      Luis Federico                  France                         Scientist
+1970        Literature                     Aleksandr Solzhenitsyn         Russia                         Linguist
+1970        Economics                      Paul Samuelson                 USA                            Economist
+1971        Chemistry                      Gerhard Herzberg               Germany                        Scientist
+1971        Literature                     Pabola Neruda                  Chile                          Linguist
+1971        Economic                       Simon Kuznets                  Russia                         Economist
+1987        Chemistry                      Donald                         USA                            Scientist
+1994        Economics                      Reinhard                       Geramany                       Economist
+1987        Literature                     Joseph                         Russia                         Linguist
+1987        Economics                      Robert                         USA                            Economist
+1994        literature                     Kenzaburo                      Japan                          Linguist
+
+(11 rows affected)
+
+
+Completion time: 2022-09-06T16:11:38.8293271+05:30
