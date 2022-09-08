@@ -1,0 +1,27 @@
+﻿FIRST_NAME           LAST_NAME                 SALARY
+-------------------- ------------------------- ---------------------------------------
+Steven               King                      14583.26
+Neena                Kochhar                   17000.00
+Lex                  De Haan                   17000.00
+Nancy                Greenberg                 12000.00
+Den                  Raphaely                  11000.00
+John                 Russell                   14000.00
+Karen                Partners                  13500.00
+Alberto              Errazuriz                 12000.00
+Gerald               Cambrault                 11000.00
+Eleni                Zlotkey                   10500.00
+Peter                Tucker                    10000.00
+Janette              King                      10000.00
+Clara                Vishney                   10500.00
+Lisa                 Ozer                      11500.00
+Harrison             Bloom                     10000.00
+Tayler               Fox                       9600.00
+Ellen                Abel                      11000.00
+Michael              Hartstein                 13000.00
+Hermann              Baer                      10000.00
+Shelley              Higgins                   12000.00
+
+(20 rows affected)
+
+
+Completion time: 2022-09-08T17:45:18.6069551+05:30
