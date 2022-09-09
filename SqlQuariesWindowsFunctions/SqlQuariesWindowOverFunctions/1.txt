@@ -1,0 +1,302 @@
+﻿ProductName                                        Listprice             Name        ProductCategory
+-------------------------------------------------- --------------------- ----------- --------------------------------------------------
+HL Road Frame - Black, 58                          1431.50               14          Components
+HL Road Frame - Red, 58                            1431.50               14          Components
+Sport-100 Helmet, Red                              34.99                 31          Accessories
+Sport-100 Helmet, Black                            34.99                 31          Accessories
+Mountain Bike Socks, M                             9.50                  23          Clothing
+Mountain Bike Socks, L                             9.50                  23          Clothing
+Sport-100 Helmet, Blue                             34.99                 31          Accessories
+AWC Logo Cap                                       8.99                  19          Clothing
+Long-Sleeve Logo Jersey, S                         49.99                 21          Clothing
+Long-Sleeve Logo Jersey, M                         49.99                 21          Clothing
+Long-Sleeve Logo Jersey, L                         49.99                 21          Clothing
+Long-Sleeve Logo Jersey, XL                        49.99                 21          Clothing
+HL Road Frame - Red, 62                            1431.50               14          Components
+HL Road Frame - Red, 44                            1431.50               14          Components
+HL Road Frame - Red, 48                            1431.50               14          Components
+HL Road Frame - Red, 52                            1431.50               14          Components
+HL Road Frame - Red, 56                            1431.50               14          Components
+LL Road Frame - Black, 58                          337.22                14          Components
+LL Road Frame - Black, 60                          337.22                14          Components
+LL Road Frame - Black, 62                          337.22                14          Components
+LL Road Frame - Red, 44                            337.22                14          Components
+LL Road Frame - Red, 48                            337.22                14          Components
+LL Road Frame - Red, 52                            337.22                14          Components
+LL Road Frame - Red, 58                            337.22                14          Components
+LL Road Frame - Red, 60                            337.22                14          Components
+LL Road Frame - Red, 62                            337.22                14          Components
+ML Road Frame - Red, 44                            594.83                14          Components
+ML Road Frame - Red, 48                            594.83                14          Components
+ML Road Frame - Red, 52                            594.83                14          Components
+ML Road Frame - Red, 58                            594.83                14          Components
+ML Road Frame - Red, 60                            594.83                14          Components
+LL Road Frame - Black, 44                          337.22                14          Components
+LL Road Frame - Black, 48                          337.22                14          Components
+LL Road Frame - Black, 52                          337.22                14          Components
+HL Mountain Frame - Silver, 42                     1364.50               12          Components
+HL Mountain Frame - Silver, 44                     1364.50               12          Components
+HL Mountain Frame - Silver, 48                     1364.50               12          Components
+HL Mountain Frame - Silver, 46                     1364.50               12          Components
+HL Mountain Frame - Black, 42                      1349.60               12          Components
+HL Mountain Frame - Black, 44                      1349.60               12          Components
+HL Mountain Frame - Black, 48                      1349.60               12          Components
+HL Mountain Frame - Black, 46                      1349.60               12          Components
+HL Mountain Frame - Black, 38                      1349.60               12          Components
+HL Mountain Frame - Silver, 38                     1364.50               12          Components
+Road-150 Red, 62                                   3578.27               2           Bikes
+Road-150 Red, 44                                   3578.27               2           Bikes
+Road-150 Red, 48                                   3578.27               2           Bikes
+Road-150 Red, 52                                   3578.27               2           Bikes
+Road-150 Red, 56                                   3578.27               2           Bikes
+Road-450 Red, 58                                   1457.99               2           Bikes
+Road-450 Red, 60                                   1457.99               2           Bikes
+Road-450 Red, 44                                   1457.99               2           Bikes
+Road-450 Red, 48                                   1457.99               2           Bikes
+Road-450 Red, 52                                   1457.99               2           Bikes
+Road-650 Red, 58                                   782.99                2           Bikes
+Road-650 Red, 60                                   782.99                2           Bikes
+Road-650 Red, 62                                   782.99                2           Bikes
+Road-650 Red, 44                                   782.99                2           Bikes
+Road-650 Red, 48                                   782.99                2           Bikes
+Road-650 Red, 52                                   782.99                2           Bikes
+Road-650 Black, 58                                 782.99                2           Bikes
+Road-650 Black, 60                                 782.99                2           Bikes
+Road-650 Black, 62                                 782.99                2           Bikes
+Road-650 Black, 44                                 782.99                2           Bikes
+Road-650 Black, 48                                 782.99                2           Bikes
+Road-650 Black, 52                                 782.99                2           Bikes
+Mountain-100 Silver, 38                            3399.99               1           Bikes
+Mountain-100 Silver, 42                            3399.99               1           Bikes
+Mountain-100 Silver, 44                            3399.99               1           Bikes
+Mountain-100 Silver, 48                            3399.99               1           Bikes
+Mountain-100 Black, 38                             3374.99               1           Bikes
+Mountain-100 Black, 42                             3374.99               1           Bikes
+Mountain-100 Black, 44                             3374.99               1           Bikes
+Mountain-100 Black, 48                             3374.99               1           Bikes
+Mountain-200 Silver, 38                            2319.99               1           Bikes
+Mountain-200 Silver, 42                            2319.99               1           Bikes
+Mountain-200 Silver, 46                            2319.99               1           Bikes
+Mountain-200 Black, 38                             2294.99               1           Bikes
+Mountain-200 Black, 42                             2294.99               1           Bikes
+Mountain-200 Black, 46                             2294.99               1           Bikes
+Mountain-300 Black, 38                             1079.99               1           Bikes
+Mountain-300 Black, 40                             1079.99               1           Bikes
+Mountain-300 Black, 44                             1079.99               1           Bikes
+Mountain-300 Black, 48                             1079.99               1           Bikes
+Road-250 Red, 44                                   2443.35               2           Bikes
+Road-250 Red, 48                                   2443.35               2           Bikes
+Road-250 Red, 52                                   2443.35               2           Bikes
+Road-250 Red, 58                                   2443.35               2           Bikes
+Road-250 Black, 44                                 2443.35               2           Bikes
+Road-250 Black, 48                                 2443.35               2           Bikes
+Road-250 Black, 52                                 2443.35               2           Bikes
+Road-250 Black, 58                                 2443.35               2           Bikes
+Road-550-W Yellow, 38                              1120.49               2           Bikes
+Road-550-W Yellow, 40                              1120.49               2           Bikes
+Road-550-W Yellow, 42                              1120.49               2           Bikes
+Road-550-W Yellow, 44                              1120.49               2           Bikes
+Road-550-W Yellow, 48                              1120.49               2           Bikes
+LL Fork                                            148.22                10          Components
+ML Fork                                            175.49                10          Components
+HL Fork                                            229.49                10          Components
+LL Headset                                         34.20                 11          Components
+ML Headset                                         102.29                11          Components
+HL Headset                                         124.73                11          Components
+LL Mountain Handlebars                             44.54                 4           Components
+ML Mountain Handlebars                             61.92                 4           Components
+HL Mountain Handlebars                             120.27                4           Components
+LL Road Handlebars                                 44.54                 4           Components
+ML Road Handlebars                                 61.92                 4           Components
+HL Road Handlebars                                 120.27                4           Components
+ML Mountain Frame - Black, 38                      348.76                12          Components
+LL Mountain Front Wheel                            60.745                17          Components
+ML Mountain Front Wheel                            209.025               17          Components
+HL Mountain Front Wheel                            300.215               17          Components
+LL Road Front Wheel                                85.565                17          Components
+ML Road Front Wheel                                248.385               17          Components
+HL Road Front Wheel                                330.06                17          Components
+Touring Front Wheel                                218.01                17          Components
+ML Road Frame-W - Yellow, 38                       594.83                14          Components
+LL Mountain Rear Wheel                             87.745                17          Components
+ML Mountain Rear Wheel                             236.025               17          Components
+HL Mountain Rear Wheel                             327.215               17          Components
+LL Road Rear Wheel                                 112.565               17          Components
+ML Road Rear Wheel                                 275.385               17          Components
+HL Road Rear Wheel                                 357.06                17          Components
+Touring Rear Wheel                                 245.01                17          Components
+ML Mountain Frame - Black, 40                      348.76                12          Components
+ML Mountain Frame - Black, 44                      348.76                12          Components
+ML Mountain Frame - Black, 48                      348.76                12          Components
+ML Road Frame-W - Yellow, 40                       594.83                14          Components
+ML Road Frame-W - Yellow, 42                       594.83                14          Components
+ML Road Frame-W - Yellow, 44                       594.83                14          Components
+ML Road Frame-W - Yellow, 48                       594.83                14          Components
+HL Road Frame - Black, 62                          1431.50               14          Components
+HL Road Frame - Black, 44                          1431.50               14          Components
+HL Road Frame - Black, 48                          1431.50               14          Components
+HL Road Frame - Black, 52                          1431.50               14          Components
+Men's Sports Shorts, S                             59.99                 22          Clothing
+Touring-Panniers, Large                            125.00                35          Accessories
+Cable Lock                                         25.00                 34          Accessories
+Minipump                                           19.99                 36          Accessories
+Mountain Pump                                      24.99                 36          Accessories
+Taillights - Battery-Powered                       13.99                 33          Accessories
+Headlights - Dual-Beam                             34.99                 33          Accessories
+Headlights - Weatherproof                          44.99                 33          Accessories
+Men's Sports Shorts, M                             59.99                 22          Clothing
+Men's Sports Shorts, L                             59.99                 22          Clothing
+Men's Sports Shorts, XL                            59.99                 22          Clothing
+Women's Tights, S                                  74.99                 24          Clothing
+Women's Tights, M                                  74.99                 24          Clothing
+Women's Tights, L                                  74.99                 24          Clothing
+Men's Bib-Shorts, S                                89.99                 18          Clothing
+Men's Bib-Shorts, M                                89.99                 18          Clothing
+Men's Bib-Shorts, L                                89.99                 18          Clothing
+Half-Finger Gloves, S                              24.49                 20          Clothing
+Half-Finger Gloves, M                              24.49                 20          Clothing
+Half-Finger Gloves, L                              24.49                 20          Clothing
+Full-Finger Gloves, S                              37.99                 20          Clothing
+Full-Finger Gloves, M                              37.99                 20          Clothing
+Full-Finger Gloves, L                              37.99                 20          Clothing
+Classic Vest, S                                    63.50                 25          Clothing
+Classic Vest, M                                    63.50                 25          Clothing
+Classic Vest, L                                    63.50                 25          Clothing
+Women's Mountain Shorts, S                         69.99                 22          Clothing
+Women's Mountain Shorts, M                         69.99                 22          Clothing
+Women's Mountain Shorts, L                         69.99                 22          Clothing
+Water Bottle - 30 oz.                              4.99                  28          Accessories
+Mountain Bottle Cage                               9.99                  28          Accessories
+Road Bottle Cage                                   8.99                  28          Accessories
+Patch Kit/8 Patches                                2.29                  37          Accessories
+Racing Socks, M                                    8.99                  23          Clothing
+Racing Socks, L                                    8.99                  23          Clothing
+Hitch Rack - 4-Bike                                120.00                26          Accessories
+Bike Wash - Dissolver                              7.95                  29          Accessories
+Fender Set - Mountain                              21.98                 30          Accessories
+All-Purpose Bike Stand                             159.00                27          Accessories
+Hydration Pack - 70 oz.                            54.99                 32          Accessories
+Short-Sleeve Classic Jersey, S                     53.99                 21          Clothing
+Short-Sleeve Classic Jersey, M                     53.99                 21          Clothing
+Short-Sleeve Classic Jersey, L                     53.99                 21          Clothing
+Short-Sleeve Classic Jersey, XL                    53.99                 21          Clothing
+HL Touring Frame - Yellow, 60                      1003.91               16          Components
+LL Touring Frame - Yellow, 62                      333.42                16          Components
+HL Touring Frame - Yellow, 46                      1003.91               16          Components
+HL Touring Frame - Yellow, 50                      1003.91               16          Components
+HL Touring Frame - Yellow, 54                      1003.91               16          Components
+HL Touring Frame - Blue, 46                        1003.91               16          Components
+HL Touring Frame - Blue, 50                        1003.91               16          Components
+HL Touring Frame - Blue, 54                        1003.91               16          Components
+HL Touring Frame - Blue, 60                        1003.91               16          Components
+Rear Derailleur                                    121.46                9           Components
+LL Touring Frame - Blue, 50                        333.42                16          Components
+LL Touring Frame - Blue, 54                        333.42                16          Components
+LL Touring Frame - Blue, 58                        333.42                16          Components
+LL Touring Frame - Blue, 62                        333.42                16          Components
+LL Touring Frame - Yellow, 44                      333.42                16          Components
+LL Touring Frame - Yellow, 50                      333.42                16          Components
+LL Touring Frame - Yellow, 54                      333.42                16          Components
+LL Touring Frame - Yellow, 58                      333.42                16          Components
+LL Touring Frame - Blue, 44                        333.42                16          Components
+ML Mountain Frame-W - Silver, 40                   364.09                12          Components
+ML Mountain Frame-W - Silver, 42                   364.09                12          Components
+ML Mountain Frame-W - Silver, 46                   364.09                12          Components
+Rear Brakes                                        106.50                6           Components
+LL Mountain Seat/Saddle                            27.12                 15          Components
+ML Mountain Seat/Saddle                            39.14                 15          Components
+HL Mountain Seat/Saddle                            52.64                 15          Components
+LL Road Seat/Saddle                                27.12                 15          Components
+ML Road Seat/Saddle                                39.14                 15          Components
+HL Road Seat/Saddle                                52.64                 15          Components
+LL Touring Seat/Saddle                             27.12                 15          Components
+ML Touring Seat/Saddle                             39.14                 15          Components
+HL Touring Seat/Saddle                             52.64                 15          Components
+LL Mountain Frame - Silver, 42                     264.05                12          Components
+LL Mountain Frame - Silver, 44                     264.05                12          Components
+LL Mountain Frame - Silver, 48                     264.05                12          Components
+LL Mountain Frame - Silver, 52                     264.05                12          Components
+Mountain Tire Tube                                 4.99                  37          Accessories
+Road Tire Tube                                     3.99                  37          Accessories
+Touring Tire Tube                                  4.99                  37          Accessories
+LL Mountain Frame - Black, 42                      249.79                12          Components
+LL Mountain Frame - Black, 44                      249.79                12          Components
+LL Mountain Frame - Black, 48                      249.79                12          Components
+LL Mountain Frame - Black, 52                      249.79                12          Components
+LL Mountain Tire                                   24.99                 37          Accessories
+ML Mountain Tire                                   29.99                 37          Accessories
+HL Mountain Tire                                   35.00                 37          Accessories
+LL Road Tire                                       21.49                 37          Accessories
+ML Road Tire                                       24.99                 37          Accessories
+HL Road Tire                                       32.60                 37          Accessories
+Touring Tire                                       28.99                 37          Accessories
+LL Mountain Pedal                                  40.49                 13          Components
+ML Mountain Pedal                                  62.09                 13          Components
+HL Mountain Pedal                                  80.99                 13          Components
+LL Road Pedal                                      40.49                 13          Components
+ML Road Pedal                                      62.09                 13          Components
+HL Road Pedal                                      80.99                 13          Components
+Touring Pedal                                      80.99                 13          Components
+ML Mountain Frame-W - Silver, 38                   364.09                12          Components
+LL Mountain Frame - Black, 40                      249.79                12          Components
+LL Mountain Frame - Silver, 40                     264.05                12          Components
+Front Derailleur                                   91.49                 9           Components
+LL Touring Handlebars                              46.09                 4           Components
+HL Touring Handlebars                              91.57                 4           Components
+Front Brakes                                       106.50                6           Components
+LL Crankset                                        175.49                8           Components
+ML Crankset                                        256.49                8           Components
+HL Crankset                                        404.99                8           Components
+Chain                                              20.24                 7           Components
+Touring-2000 Blue, 60                              1214.85               3           Bikes
+Touring-1000 Yellow, 46                            2384.07               3           Bikes
+Touring-1000 Yellow, 50                            2384.07               3           Bikes
+Touring-1000 Yellow, 54                            2384.07               3           Bikes
+Touring-1000 Yellow, 60                            2384.07               3           Bikes
+Touring-3000 Blue, 54                              742.35                3           Bikes
+Touring-3000 Blue, 58                              742.35                3           Bikes
+Touring-3000 Blue, 62                              742.35                3           Bikes
+Touring-3000 Yellow, 44                            742.35                3           Bikes
+Touring-3000 Yellow, 50                            742.35                3           Bikes
+Touring-3000 Yellow, 54                            742.35                3           Bikes
+Touring-3000 Yellow, 58                            742.35                3           Bikes
+Touring-3000 Yellow, 62                            742.35                3           Bikes
+Touring-1000 Blue, 46                              2384.07               3           Bikes
+Touring-1000 Blue, 50                              2384.07               3           Bikes
+Touring-1000 Blue, 54                              2384.07               3           Bikes
+Touring-1000 Blue, 60                              2384.07               3           Bikes
+Touring-2000 Blue, 46                              1214.85               3           Bikes
+Touring-2000 Blue, 50                              1214.85               3           Bikes
+Touring-2000 Blue, 54                              1214.85               3           Bikes
+Road-350-W Yellow, 40                              1700.99               2           Bikes
+Road-350-W Yellow, 42                              1700.99               2           Bikes
+Road-350-W Yellow, 44                              1700.99               2           Bikes
+Road-350-W Yellow, 48                              1700.99               2           Bikes
+Road-750 Black, 58                                 539.99                2           Bikes
+Touring-3000 Blue, 44                              742.35                3           Bikes
+Touring-3000 Blue, 50                              742.35                3           Bikes
+Mountain-400-W Silver, 38                          769.49                1           Bikes
+Mountain-400-W Silver, 40                          769.49                1           Bikes
+Mountain-400-W Silver, 42                          769.49                1           Bikes
+Mountain-400-W Silver, 46                          769.49                1           Bikes
+Mountain-500 Silver, 40                            564.99                1           Bikes
+Mountain-500 Silver, 42                            564.99                1           Bikes
+Mountain-500 Silver, 44                            564.99                1           Bikes
+Mountain-500 Silver, 48                            564.99                1           Bikes
+Mountain-500 Silver, 52                            564.99                1           Bikes
+Mountain-500 Black, 40                             539.99                1           Bikes
+Mountain-500 Black, 42                             539.99                1           Bikes
+Mountain-500 Black, 44                             539.99                1           Bikes
+Mountain-500 Black, 48                             539.99                1           Bikes
+Mountain-500 Black, 52                             539.99                1           Bikes
+LL Bottom Bracket                                  53.99                 5           Components
+ML Bottom Bracket                                  101.24                5           Components
+HL Bottom Bracket                                  121.49                5           Components
+Road-750 Black, 44                                 539.99                2           Bikes
+Road-750 Black, 48                                 539.99                2           Bikes
+Road-750 Black, 52                                 539.99                2           Bikes
+
+(295 rows affected)
+
+
+Completion time: 2022-09-09T17:49:24.8932879+05:30

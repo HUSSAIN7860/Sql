@@ -1,0 +1,302 @@
+﻿ProductName                                        Listprice             Name        ProductCategory                                    AvgPriceCategory      AvgPriceByCategoryAndSubCategory ProductVsCategoryDelta
+-------------------------------------------------- --------------------- ----------- -------------------------------------------------- --------------------- -------------------------------- ----------------------
+Hitch Rack - 4-Bike                                120.00                26          Accessories                                        34.3489               120.00                           0.00
+All-Purpose Bike Stand                             159.00                27          Accessories                                        34.3489               159.00                           0.00
+Water Bottle - 30 oz.                              4.99                  28          Accessories                                        34.3489               7.99                             -3.00
+Mountain Bottle Cage                               9.99                  28          Accessories                                        34.3489               7.99                             2.00
+Road Bottle Cage                                   8.99                  28          Accessories                                        34.3489               7.99                             1.00
+Bike Wash - Dissolver                              7.95                  29          Accessories                                        34.3489               7.95                             0.00
+Fender Set - Mountain                              21.98                 30          Accessories                                        34.3489               21.98                            0.00
+Sport-100 Helmet, Red                              34.99                 31          Accessories                                        34.3489               34.99                            0.00
+Sport-100 Helmet, Black                            34.99                 31          Accessories                                        34.3489               34.99                            0.00
+Sport-100 Helmet, Blue                             34.99                 31          Accessories                                        34.3489               34.99                            0.00
+Hydration Pack - 70 oz.                            54.99                 32          Accessories                                        34.3489               54.99                            0.00
+Taillights - Battery-Powered                       13.99                 33          Accessories                                        34.3489               31.3233                          -17.3333
+Headlights - Dual-Beam                             34.99                 33          Accessories                                        34.3489               31.3233                          3.6667
+Headlights - Weatherproof                          44.99                 33          Accessories                                        34.3489               31.3233                          13.6667
+Cable Lock                                         25.00                 34          Accessories                                        34.3489               25.00                            0.00
+Touring-Panniers, Large                            125.00                35          Accessories                                        34.3489               125.00                           0.00
+Minipump                                           19.99                 36          Accessories                                        34.3489               22.49                            -2.50
+Mountain Pump                                      24.99                 36          Accessories                                        34.3489               22.49                            2.50
+Patch Kit/8 Patches                                2.29                  37          Accessories                                        34.3489               19.4827                          -17.1927
+LL Mountain Tire                                   24.99                 37          Accessories                                        34.3489               19.4827                          5.5073
+ML Mountain Tire                                   29.99                 37          Accessories                                        34.3489               19.4827                          10.5073
+HL Mountain Tire                                   35.00                 37          Accessories                                        34.3489               19.4827                          15.5173
+LL Road Tire                                       21.49                 37          Accessories                                        34.3489               19.4827                          2.0073
+ML Road Tire                                       24.99                 37          Accessories                                        34.3489               19.4827                          5.5073
+HL Road Tire                                       32.60                 37          Accessories                                        34.3489               19.4827                          13.1173
+Touring Tire                                       28.99                 37          Accessories                                        34.3489               19.4827                          9.5073
+Mountain Tire Tube                                 4.99                  37          Accessories                                        34.3489               19.4827                          -14.4927
+Road Tire Tube                                     3.99                  37          Accessories                                        34.3489               19.4827                          -15.4927
+Touring Tire Tube                                  4.99                  37          Accessories                                        34.3489               19.4827                          -14.4927
+Mountain-400-W Silver, 38                          769.49                1           Bikes                                              1586.737              1683.365                         -913.875
+Mountain-400-W Silver, 40                          769.49                1           Bikes                                              1586.737              1683.365                         -913.875
+Mountain-400-W Silver, 42                          769.49                1           Bikes                                              1586.737              1683.365                         -913.875
+Mountain-400-W Silver, 46                          769.49                1           Bikes                                              1586.737              1683.365                         -913.875
+Mountain-500 Silver, 40                            564.99                1           Bikes                                              1586.737              1683.365                         -1118.375
+Mountain-500 Silver, 42                            564.99                1           Bikes                                              1586.737              1683.365                         -1118.375
+Mountain-500 Silver, 44                            564.99                1           Bikes                                              1586.737              1683.365                         -1118.375
+Mountain-500 Silver, 48                            564.99                1           Bikes                                              1586.737              1683.365                         -1118.375
+Mountain-500 Silver, 52                            564.99                1           Bikes                                              1586.737              1683.365                         -1118.375
+Mountain-500 Black, 40                             539.99                1           Bikes                                              1586.737              1683.365                         -1143.375
+Mountain-500 Black, 42                             539.99                1           Bikes                                              1586.737              1683.365                         -1143.375
+Mountain-500 Black, 44                             539.99                1           Bikes                                              1586.737              1683.365                         -1143.375
+Mountain-500 Black, 48                             539.99                1           Bikes                                              1586.737              1683.365                         -1143.375
+Mountain-500 Black, 52                             539.99                1           Bikes                                              1586.737              1683.365                         -1143.375
+Mountain-100 Silver, 38                            3399.99               1           Bikes                                              1586.737              1683.365                         1716.625
+Mountain-100 Silver, 42                            3399.99               1           Bikes                                              1586.737              1683.365                         1716.625
+Mountain-100 Silver, 44                            3399.99               1           Bikes                                              1586.737              1683.365                         1716.625
+Mountain-100 Silver, 48                            3399.99               1           Bikes                                              1586.737              1683.365                         1716.625
+Mountain-100 Black, 38                             3374.99               1           Bikes                                              1586.737              1683.365                         1691.625
+Mountain-100 Black, 42                             3374.99               1           Bikes                                              1586.737              1683.365                         1691.625
+Mountain-100 Black, 44                             3374.99               1           Bikes                                              1586.737              1683.365                         1691.625
+Mountain-100 Black, 48                             3374.99               1           Bikes                                              1586.737              1683.365                         1691.625
+Mountain-200 Silver, 38                            2319.99               1           Bikes                                              1586.737              1683.365                         636.625
+Mountain-200 Silver, 42                            2319.99               1           Bikes                                              1586.737              1683.365                         636.625
+Mountain-200 Silver, 46                            2319.99               1           Bikes                                              1586.737              1683.365                         636.625
+Mountain-200 Black, 38                             2294.99               1           Bikes                                              1586.737              1683.365                         611.625
+Mountain-200 Black, 42                             2294.99               1           Bikes                                              1586.737              1683.365                         611.625
+Mountain-200 Black, 46                             2294.99               1           Bikes                                              1586.737              1683.365                         611.625
+Mountain-300 Black, 38                             1079.99               1           Bikes                                              1586.737              1683.365                         -603.375
+Mountain-300 Black, 40                             1079.99               1           Bikes                                              1586.737              1683.365                         -603.375
+Mountain-300 Black, 44                             1079.99               1           Bikes                                              1586.737              1683.365                         -603.375
+Mountain-300 Black, 48                             1079.99               1           Bikes                                              1586.737              1683.365                         -603.375
+Road-250 Red, 44                                   2443.35               2           Bikes                                              1586.737              1597.45                          845.90
+Road-250 Red, 48                                   2443.35               2           Bikes                                              1586.737              1597.45                          845.90
+Road-250 Red, 52                                   2443.35               2           Bikes                                              1586.737              1597.45                          845.90
+Road-250 Red, 58                                   2443.35               2           Bikes                                              1586.737              1597.45                          845.90
+Road-250 Black, 44                                 2443.35               2           Bikes                                              1586.737              1597.45                          845.90
+Road-250 Black, 48                                 2443.35               2           Bikes                                              1586.737              1597.45                          845.90
+Road-250 Black, 52                                 2443.35               2           Bikes                                              1586.737              1597.45                          845.90
+Road-250 Black, 58                                 2443.35               2           Bikes                                              1586.737              1597.45                          845.90
+Road-550-W Yellow, 38                              1120.49               2           Bikes                                              1586.737              1597.45                          -476.96
+Road-550-W Yellow, 40                              1120.49               2           Bikes                                              1586.737              1597.45                          -476.96
+Road-550-W Yellow, 42                              1120.49               2           Bikes                                              1586.737              1597.45                          -476.96
+Road-550-W Yellow, 44                              1120.49               2           Bikes                                              1586.737              1597.45                          -476.96
+Road-550-W Yellow, 48                              1120.49               2           Bikes                                              1586.737              1597.45                          -476.96
+Road-150 Red, 62                                   3578.27               2           Bikes                                              1586.737              1597.45                          1980.82
+Road-150 Red, 44                                   3578.27               2           Bikes                                              1586.737              1597.45                          1980.82
+Road-150 Red, 48                                   3578.27               2           Bikes                                              1586.737              1597.45                          1980.82
+Road-150 Red, 52                                   3578.27               2           Bikes                                              1586.737              1597.45                          1980.82
+Road-150 Red, 56                                   3578.27               2           Bikes                                              1586.737              1597.45                          1980.82
+Road-450 Red, 58                                   1457.99               2           Bikes                                              1586.737              1597.45                          -139.46
+Road-450 Red, 60                                   1457.99               2           Bikes                                              1586.737              1597.45                          -139.46
+Road-450 Red, 44                                   1457.99               2           Bikes                                              1586.737              1597.45                          -139.46
+Road-450 Red, 48                                   1457.99               2           Bikes                                              1586.737              1597.45                          -139.46
+Road-450 Red, 52                                   1457.99               2           Bikes                                              1586.737              1597.45                          -139.46
+Road-650 Red, 58                                   782.99                2           Bikes                                              1586.737              1597.45                          -814.46
+Road-650 Red, 60                                   782.99                2           Bikes                                              1586.737              1597.45                          -814.46
+Road-650 Red, 62                                   782.99                2           Bikes                                              1586.737              1597.45                          -814.46
+Road-650 Red, 44                                   782.99                2           Bikes                                              1586.737              1597.45                          -814.46
+Road-650 Red, 48                                   782.99                2           Bikes                                              1586.737              1597.45                          -814.46
+Road-650 Red, 52                                   782.99                2           Bikes                                              1586.737              1597.45                          -814.46
+Road-650 Black, 58                                 782.99                2           Bikes                                              1586.737              1597.45                          -814.46
+Road-650 Black, 60                                 782.99                2           Bikes                                              1586.737              1597.45                          -814.46
+Road-650 Black, 62                                 782.99                2           Bikes                                              1586.737              1597.45                          -814.46
+Road-650 Black, 44                                 782.99                2           Bikes                                              1586.737              1597.45                          -814.46
+Road-650 Black, 48                                 782.99                2           Bikes                                              1586.737              1597.45                          -814.46
+Road-650 Black, 52                                 782.99                2           Bikes                                              1586.737              1597.45                          -814.46
+Road-350-W Yellow, 40                              1700.99               2           Bikes                                              1586.737              1597.45                          103.54
+Road-350-W Yellow, 42                              1700.99               2           Bikes                                              1586.737              1597.45                          103.54
+Road-350-W Yellow, 44                              1700.99               2           Bikes                                              1586.737              1597.45                          103.54
+Road-350-W Yellow, 48                              1700.99               2           Bikes                                              1586.737              1597.45                          103.54
+Road-750 Black, 58                                 539.99                2           Bikes                                              1586.737              1597.45                          -1057.46
+Road-750 Black, 44                                 539.99                2           Bikes                                              1586.737              1597.45                          -1057.46
+Road-750 Black, 48                                 539.99                2           Bikes                                              1586.737              1597.45                          -1057.46
+Road-750 Black, 52                                 539.99                2           Bikes                                              1586.737              1597.45                          -1057.46
+Touring-3000 Blue, 44                              742.35                3           Bikes                                              1586.737              1425.2481                        -682.8981
+Touring-3000 Blue, 50                              742.35                3           Bikes                                              1586.737              1425.2481                        -682.8981
+Touring-2000 Blue, 60                              1214.85               3           Bikes                                              1586.737              1425.2481                        -210.3981
+Touring-1000 Yellow, 46                            2384.07               3           Bikes                                              1586.737              1425.2481                        958.8219
+Touring-1000 Yellow, 50                            2384.07               3           Bikes                                              1586.737              1425.2481                        958.8219
+Touring-1000 Yellow, 54                            2384.07               3           Bikes                                              1586.737              1425.2481                        958.8219
+Touring-1000 Yellow, 60                            2384.07               3           Bikes                                              1586.737              1425.2481                        958.8219
+Touring-3000 Blue, 54                              742.35                3           Bikes                                              1586.737              1425.2481                        -682.8981
+Touring-3000 Blue, 58                              742.35                3           Bikes                                              1586.737              1425.2481                        -682.8981
+Touring-3000 Blue, 62                              742.35                3           Bikes                                              1586.737              1425.2481                        -682.8981
+Touring-3000 Yellow, 44                            742.35                3           Bikes                                              1586.737              1425.2481                        -682.8981
+Touring-3000 Yellow, 50                            742.35                3           Bikes                                              1586.737              1425.2481                        -682.8981
+Touring-3000 Yellow, 54                            742.35                3           Bikes                                              1586.737              1425.2481                        -682.8981
+Touring-3000 Yellow, 58                            742.35                3           Bikes                                              1586.737              1425.2481                        -682.8981
+Touring-3000 Yellow, 62                            742.35                3           Bikes                                              1586.737              1425.2481                        -682.8981
+Touring-1000 Blue, 46                              2384.07               3           Bikes                                              1586.737              1425.2481                        958.8219
+Touring-1000 Blue, 50                              2384.07               3           Bikes                                              1586.737              1425.2481                        958.8219
+Touring-1000 Blue, 54                              2384.07               3           Bikes                                              1586.737              1425.2481                        958.8219
+Touring-1000 Blue, 60                              2384.07               3           Bikes                                              1586.737              1425.2481                        958.8219
+Touring-2000 Blue, 46                              1214.85               3           Bikes                                              1586.737              1425.2481                        -210.3981
+Touring-2000 Blue, 50                              1214.85               3           Bikes                                              1586.737              1425.2481                        -210.3981
+Touring-2000 Blue, 54                              1214.85               3           Bikes                                              1586.737              1425.2481                        -210.3981
+Men's Bib-Shorts, S                                89.99                 18          Clothing                                           50.9914               89.99                            0.00
+Men's Bib-Shorts, M                                89.99                 18          Clothing                                           50.9914               89.99                            0.00
+Men's Bib-Shorts, L                                89.99                 18          Clothing                                           50.9914               89.99                            0.00
+AWC Logo Cap                                       8.99                  19          Clothing                                           50.9914               8.99                             0.00
+Half-Finger Gloves, S                              24.49                 20          Clothing                                           50.9914               31.24                            -6.75
+Half-Finger Gloves, M                              24.49                 20          Clothing                                           50.9914               31.24                            -6.75
+Half-Finger Gloves, L                              24.49                 20          Clothing                                           50.9914               31.24                            -6.75
+Full-Finger Gloves, S                              37.99                 20          Clothing                                           50.9914               31.24                            6.75
+Full-Finger Gloves, M                              37.99                 20          Clothing                                           50.9914               31.24                            6.75
+Full-Finger Gloves, L                              37.99                 20          Clothing                                           50.9914               31.24                            6.75
+Long-Sleeve Logo Jersey, S                         49.99                 21          Clothing                                           50.9914               51.99                            -2.00
+Long-Sleeve Logo Jersey, M                         49.99                 21          Clothing                                           50.9914               51.99                            -2.00
+Long-Sleeve Logo Jersey, L                         49.99                 21          Clothing                                           50.9914               51.99                            -2.00
+Long-Sleeve Logo Jersey, XL                        49.99                 21          Clothing                                           50.9914               51.99                            -2.00
+Short-Sleeve Classic Jersey, S                     53.99                 21          Clothing                                           50.9914               51.99                            2.00
+Short-Sleeve Classic Jersey, M                     53.99                 21          Clothing                                           50.9914               51.99                            2.00
+Short-Sleeve Classic Jersey, L                     53.99                 21          Clothing                                           50.9914               51.99                            2.00
+Short-Sleeve Classic Jersey, XL                    53.99                 21          Clothing                                           50.9914               51.99                            2.00
+Women's Mountain Shorts, S                         69.99                 22          Clothing                                           50.9914               64.2757                          5.7143
+Women's Mountain Shorts, M                         69.99                 22          Clothing                                           50.9914               64.2757                          5.7143
+Women's Mountain Shorts, L                         69.99                 22          Clothing                                           50.9914               64.2757                          5.7143
+Men's Sports Shorts, S                             59.99                 22          Clothing                                           50.9914               64.2757                          -4.2857
+Men's Sports Shorts, M                             59.99                 22          Clothing                                           50.9914               64.2757                          -4.2857
+Men's Sports Shorts, L                             59.99                 22          Clothing                                           50.9914               64.2757                          -4.2857
+Men's Sports Shorts, XL                            59.99                 22          Clothing                                           50.9914               64.2757                          -4.2857
+Mountain Bike Socks, M                             9.50                  23          Clothing                                           50.9914               9.245                            0.255
+Mountain Bike Socks, L                             9.50                  23          Clothing                                           50.9914               9.245                            0.255
+Racing Socks, M                                    8.99                  23          Clothing                                           50.9914               9.245                            -0.255
+Racing Socks, L                                    8.99                  23          Clothing                                           50.9914               9.245                            -0.255
+Women's Tights, S                                  74.99                 24          Clothing                                           50.9914               74.99                            0.00
+Women's Tights, M                                  74.99                 24          Clothing                                           50.9914               74.99                            0.00
+Women's Tights, L                                  74.99                 24          Clothing                                           50.9914               74.99                            0.00
+Classic Vest, S                                    63.50                 25          Clothing                                           50.9914               63.50                            0.00
+Classic Vest, M                                    63.50                 25          Clothing                                           50.9914               63.50                            0.00
+Classic Vest, L                                    63.50                 25          Clothing                                           50.9914               63.50                            0.00
+LL Mountain Handlebars                             44.54                 4           Components                                         469.8602              73.89                            -29.35
+ML Mountain Handlebars                             61.92                 4           Components                                         469.8602              73.89                            -11.97
+HL Mountain Handlebars                             120.27                4           Components                                         469.8602              73.89                            46.38
+LL Road Handlebars                                 44.54                 4           Components                                         469.8602              73.89                            -29.35
+ML Road Handlebars                                 61.92                 4           Components                                         469.8602              73.89                            -11.97
+HL Road Handlebars                                 120.27                4           Components                                         469.8602              73.89                            46.38
+LL Touring Handlebars                              46.09                 4           Components                                         469.8602              73.89                            -27.80
+HL Touring Handlebars                              91.57                 4           Components                                         469.8602              73.89                            17.68
+LL Bottom Bracket                                  53.99                 5           Components                                         469.8602              92.24                            -38.25
+ML Bottom Bracket                                  101.24                5           Components                                         469.8602              92.24                            9.00
+HL Bottom Bracket                                  121.49                5           Components                                         469.8602              92.24                            29.25
+Front Brakes                                       106.50                6           Components                                         469.8602              106.50                           0.00
+Rear Brakes                                        106.50                6           Components                                         469.8602              106.50                           0.00
+Chain                                              20.24                 7           Components                                         469.8602              20.24                            0.00
+LL Crankset                                        175.49                8           Components                                         469.8602              278.99                           -103.50
+ML Crankset                                        256.49                8           Components                                         469.8602              278.99                           -22.50
+HL Crankset                                        404.99                8           Components                                         469.8602              278.99                           126.00
+Rear Derailleur                                    121.46                9           Components                                         469.8602              106.475                          14.985
+Front Derailleur                                   91.49                 9           Components                                         469.8602              106.475                          -14.985
+LL Fork                                            148.22                10          Components                                         469.8602              184.40                           -36.18
+ML Fork                                            175.49                10          Components                                         469.8602              184.40                           -8.91
+HL Fork                                            229.49                10          Components                                         469.8602              184.40                           45.09
+LL Headset                                         34.20                 11          Components                                         469.8602              87.0733                          -52.8733
+ML Headset                                         102.29                11          Components                                         469.8602              87.0733                          15.2167
+HL Headset                                         124.73                11          Components                                         469.8602              87.0733                          37.6567
+ML Mountain Frame - Black, 38                      348.76                12          Components                                         469.8602              678.2535                         -329.4935
+HL Mountain Frame - Silver, 42                     1364.50               12          Components                                         469.8602              678.2535                         686.2465
+HL Mountain Frame - Silver, 44                     1364.50               12          Components                                         469.8602              678.2535                         686.2465
+HL Mountain Frame - Silver, 48                     1364.50               12          Components                                         469.8602              678.2535                         686.2465
+HL Mountain Frame - Silver, 46                     1364.50               12          Components                                         469.8602              678.2535                         686.2465
+HL Mountain Frame - Black, 42                      1349.60               12          Components                                         469.8602              678.2535                         671.3465
+HL Mountain Frame - Black, 44                      1349.60               12          Components                                         469.8602              678.2535                         671.3465
+HL Mountain Frame - Black, 48                      1349.60               12          Components                                         469.8602              678.2535                         671.3465
+HL Mountain Frame - Black, 46                      1349.60               12          Components                                         469.8602              678.2535                         671.3465
+HL Mountain Frame - Black, 38                      1349.60               12          Components                                         469.8602              678.2535                         671.3465
+HL Mountain Frame - Silver, 38                     1364.50               12          Components                                         469.8602              678.2535                         686.2465
+ML Mountain Frame - Black, 40                      348.76                12          Components                                         469.8602              678.2535                         -329.4935
+ML Mountain Frame - Black, 44                      348.76                12          Components                                         469.8602              678.2535                         -329.4935
+ML Mountain Frame - Black, 48                      348.76                12          Components                                         469.8602              678.2535                         -329.4935
+ML Mountain Frame-W - Silver, 38                   364.09                12          Components                                         469.8602              678.2535                         -314.1635
+LL Mountain Frame - Black, 40                      249.79                12          Components                                         469.8602              678.2535                         -428.4635
+LL Mountain Frame - Silver, 40                     264.05                12          Components                                         469.8602              678.2535                         -414.2035
+ML Mountain Frame-W - Silver, 40                   364.09                12          Components                                         469.8602              678.2535                         -314.1635
+ML Mountain Frame-W - Silver, 42                   364.09                12          Components                                         469.8602              678.2535                         -314.1635
+ML Mountain Frame-W - Silver, 46                   364.09                12          Components                                         469.8602              678.2535                         -314.1635
+LL Mountain Frame - Silver, 42                     264.05                12          Components                                         469.8602              678.2535                         -414.2035
+LL Mountain Frame - Silver, 44                     264.05                12          Components                                         469.8602              678.2535                         -414.2035
+LL Mountain Frame - Silver, 48                     264.05                12          Components                                         469.8602              678.2535                         -414.2035
+LL Mountain Frame - Silver, 52                     264.05                12          Components                                         469.8602              678.2535                         -414.2035
+LL Mountain Frame - Black, 42                      249.79                12          Components                                         469.8602              678.2535                         -428.4635
+LL Mountain Frame - Black, 44                      249.79                12          Components                                         469.8602              678.2535                         -428.4635
+LL Mountain Frame - Black, 48                      249.79                12          Components                                         469.8602              678.2535                         -428.4635
+LL Mountain Frame - Black, 52                      249.79                12          Components                                         469.8602              678.2535                         -428.4635
+LL Mountain Pedal                                  40.49                 13          Components                                         469.8602              64.0185                          -23.5285
+ML Mountain Pedal                                  62.09                 13          Components                                         469.8602              64.0185                          -1.9285
+HL Mountain Pedal                                  80.99                 13          Components                                         469.8602              64.0185                          16.9715
+LL Road Pedal                                      40.49                 13          Components                                         469.8602              64.0185                          -23.5285
+ML Road Pedal                                      62.09                 13          Components                                         469.8602              64.0185                          -1.9285
+HL Road Pedal                                      80.99                 13          Components                                         469.8602              64.0185                          16.9715
+Touring Pedal                                      80.99                 13          Components                                         469.8602              64.0185                          16.9715
+ML Road Frame-W - Yellow, 40                       594.83                14          Components                                         469.8602              780.0436                         -185.2136
+ML Road Frame-W - Yellow, 42                       594.83                14          Components                                         469.8602              780.0436                         -185.2136
+ML Road Frame-W - Yellow, 44                       594.83                14          Components                                         469.8602              780.0436                         -185.2136
+ML Road Frame-W - Yellow, 48                       594.83                14          Components                                         469.8602              780.0436                         -185.2136
+HL Road Frame - Black, 62                          1431.50               14          Components                                         469.8602              780.0436                         651.4564
+HL Road Frame - Black, 44                          1431.50               14          Components                                         469.8602              780.0436                         651.4564
+HL Road Frame - Black, 48                          1431.50               14          Components                                         469.8602              780.0436                         651.4564
+HL Road Frame - Black, 52                          1431.50               14          Components                                         469.8602              780.0436                         651.4564
+ML Road Frame-W - Yellow, 38                       594.83                14          Components                                         469.8602              780.0436                         -185.2136
+HL Road Frame - Black, 58                          1431.50               14          Components                                         469.8602              780.0436                         651.4564
+HL Road Frame - Red, 58                            1431.50               14          Components                                         469.8602              780.0436                         651.4564
+HL Road Frame - Red, 62                            1431.50               14          Components                                         469.8602              780.0436                         651.4564
+HL Road Frame - Red, 44                            1431.50               14          Components                                         469.8602              780.0436                         651.4564
+HL Road Frame - Red, 48                            1431.50               14          Components                                         469.8602              780.0436                         651.4564
+HL Road Frame - Red, 52                            1431.50               14          Components                                         469.8602              780.0436                         651.4564
+HL Road Frame - Red, 56                            1431.50               14          Components                                         469.8602              780.0436                         651.4564
+LL Road Frame - Black, 58                          337.22                14          Components                                         469.8602              780.0436                         -442.8236
+LL Road Frame - Black, 60                          337.22                14          Components                                         469.8602              780.0436                         -442.8236
+LL Road Frame - Black, 62                          337.22                14          Components                                         469.8602              780.0436                         -442.8236
+LL Road Frame - Red, 44                            337.22                14          Components                                         469.8602              780.0436                         -442.8236
+LL Road Frame - Red, 48                            337.22                14          Components                                         469.8602              780.0436                         -442.8236
+LL Road Frame - Red, 52                            337.22                14          Components                                         469.8602              780.0436                         -442.8236
+LL Road Frame - Red, 58                            337.22                14          Components                                         469.8602              780.0436                         -442.8236
+LL Road Frame - Red, 60                            337.22                14          Components                                         469.8602              780.0436                         -442.8236
+LL Road Frame - Red, 62                            337.22                14          Components                                         469.8602              780.0436                         -442.8236
+ML Road Frame - Red, 44                            594.83                14          Components                                         469.8602              780.0436                         -185.2136
+ML Road Frame - Red, 48                            594.83                14          Components                                         469.8602              780.0436                         -185.2136
+ML Road Frame - Red, 52                            594.83                14          Components                                         469.8602              780.0436                         -185.2136
+ML Road Frame - Red, 58                            594.83                14          Components                                         469.8602              780.0436                         -185.2136
+ML Road Frame - Red, 60                            594.83                14          Components                                         469.8602              780.0436                         -185.2136
+LL Road Frame - Black, 44                          337.22                14          Components                                         469.8602              780.0436                         -442.8236
+LL Road Frame - Black, 48                          337.22                14          Components                                         469.8602              780.0436                         -442.8236
+LL Road Frame - Black, 52                          337.22                14          Components                                         469.8602              780.0436                         -442.8236
+LL Mountain Seat/Saddle                            27.12                 15          Components                                         469.8602              39.6333                          -12.5133
+ML Mountain Seat/Saddle                            39.14                 15          Components                                         469.8602              39.6333                          -0.4933
+HL Mountain Seat/Saddle                            52.64                 15          Components                                         469.8602              39.6333                          13.0067
+LL Road Seat/Saddle                                27.12                 15          Components                                         469.8602              39.6333                          -12.5133
+ML Road Seat/Saddle                                39.14                 15          Components                                         469.8602              39.6333                          -0.4933
+HL Road Seat/Saddle                                52.64                 15          Components                                         469.8602              39.6333                          13.0067
+LL Touring Seat/Saddle                             27.12                 15          Components                                         469.8602              39.6333                          -12.5133
+ML Touring Seat/Saddle                             39.14                 15          Components                                         469.8602              39.6333                          -0.4933
+HL Touring Seat/Saddle                             52.64                 15          Components                                         469.8602              39.6333                          13.0067
+LL Touring Frame - Blue, 50                        333.42                16          Components                                         469.8602              631.4155                         -297.9955
+LL Touring Frame - Blue, 54                        333.42                16          Components                                         469.8602              631.4155                         -297.9955
+LL Touring Frame - Blue, 58                        333.42                16          Components                                         469.8602              631.4155                         -297.9955
+LL Touring Frame - Blue, 62                        333.42                16          Components                                         469.8602              631.4155                         -297.9955
+LL Touring Frame - Yellow, 44                      333.42                16          Components                                         469.8602              631.4155                         -297.9955
+LL Touring Frame - Yellow, 50                      333.42                16          Components                                         469.8602              631.4155                         -297.9955
+LL Touring Frame - Yellow, 54                      333.42                16          Components                                         469.8602              631.4155                         -297.9955
+LL Touring Frame - Yellow, 58                      333.42                16          Components                                         469.8602              631.4155                         -297.9955
+LL Touring Frame - Blue, 44                        333.42                16          Components                                         469.8602              631.4155                         -297.9955
+HL Touring Frame - Yellow, 60                      1003.91               16          Components                                         469.8602              631.4155                         372.4945
+LL Touring Frame - Yellow, 62                      333.42                16          Components                                         469.8602              631.4155                         -297.9955
+HL Touring Frame - Yellow, 46                      1003.91               16          Components                                         469.8602              631.4155                         372.4945
+HL Touring Frame - Yellow, 50                      1003.91               16          Components                                         469.8602              631.4155                         372.4945
+HL Touring Frame - Yellow, 54                      1003.91               16          Components                                         469.8602              631.4155                         372.4945
+HL Touring Frame - Blue, 46                        1003.91               16          Components                                         469.8602              631.4155                         372.4945
+HL Touring Frame - Blue, 50                        1003.91               16          Components                                         469.8602              631.4155                         372.4945
+HL Touring Frame - Blue, 54                        1003.91               16          Components                                         469.8602              631.4155                         372.4945
+HL Touring Frame - Blue, 60                        1003.91               16          Components                                         469.8602              631.4155                         372.4945
+LL Mountain Rear Wheel                             87.745                17          Components                                         469.8602              220.9292                         -133.1842
+ML Mountain Rear Wheel                             236.025               17          Components                                         469.8602              220.9292                         15.0958
+HL Mountain Rear Wheel                             327.215               17          Components                                         469.8602              220.9292                         106.2858
+LL Road Rear Wheel                                 112.565               17          Components                                         469.8602              220.9292                         -108.3642
+ML Road Rear Wheel                                 275.385               17          Components                                         469.8602              220.9292                         54.4558
+HL Road Rear Wheel                                 357.06                17          Components                                         469.8602              220.9292                         136.1308
+Touring Rear Wheel                                 245.01                17          Components                                         469.8602              220.9292                         24.0808
+LL Mountain Front Wheel                            60.745                17          Components                                         469.8602              220.9292                         -160.1842
+ML Mountain Front Wheel                            209.025               17          Components                                         469.8602              220.9292                         -11.9042
+HL Mountain Front Wheel                            300.215               17          Components                                         469.8602              220.9292                         79.2858
+LL Road Front Wheel                                85.565                17          Components                                         469.8602              220.9292                         -135.3642
+ML Road Front Wheel                                248.385               17          Components                                         469.8602              220.9292                         27.4558
+HL Road Front Wheel                                330.06                17          Components                                         469.8602              220.9292                         109.1308
+Touring Front Wheel                                218.01                17          Components                                         469.8602              220.9292                         -2.9192
+
+(295 rows affected)
+
+
+Completion time: 2022-09-09T17:50:36.3478852+05:30
